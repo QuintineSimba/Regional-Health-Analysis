@@ -1,6 +1,6 @@
 # Regional Health Dashboard (Power BI)
 
-![Dashboard Preview](https://github.com/quintinesimba/Regional-Health-Analysis/blob/main/regionaldatadashboard.png?raw=true
+![Dashboard Preview](https://github.com/quintinesimba/Regional-Health-Analysis/blob/main/Regional%20Data%20Dashboard.png?raw=true)
 
 ## Overview
 
