@@ -32,7 +32,7 @@ To evaluate and compare:
 ## 📂 Files Included
 
 * `Regional_Health_Dashboard.pbix` – The full Power BI file
-* `dashboard.png` – Dashboard screenshot preview
+* Regional Data Dashboard.png` – Dashboard screenshot preview
 
 ---
 
